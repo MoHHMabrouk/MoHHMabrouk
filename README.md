@@ -7,7 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF727&center=true&vCenter=true&width=435&lines=Embedded+Software+Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5DF727&vCenter=true&size=22"></a>
+</p> 
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
