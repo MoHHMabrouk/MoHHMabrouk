@@ -13,6 +13,8 @@
 
 
 
+<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
+
 <img width="250" align="right" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 
@@ -21,6 +23,9 @@
 - 💬 Ask me about my experience with C, Data Structure ,Computer Architecture,
   Communication Protocols (EX: UART,LIN,I2C,CAN) , RTOS , or anything related to Embedded Systems Engineering.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+
+<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
+
 
 ### Connect with Me :
 
@@ -35,6 +40,8 @@
 ![Microchip](https://img.shields.io/badge/-Microchip%20Studio-05122A?style=flat&logo=Microchip%20Studio)&nbsp;
 ![Communtication Protocols](https://img.shields.io/badge/-Communiction%20Protocols-05122A?style=flat&logo=Communiction%20Protocols)&nbsp;
 ![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
+
+<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
 
 
 ### 🛠 &nbsp;Currently Learning
