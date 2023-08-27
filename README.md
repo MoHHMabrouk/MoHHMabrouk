@@ -51,7 +51,13 @@
 
 
 
-https://github.com/MoHHMabrouk/MoHHMabrouk/assets/104689716/18b3e111-0aa0-4312-9184-7c0ecf14f545
+<figure class="audio">
+    <audio controls autoplay>
+        <source src="https://drive.google.com/file/d/1o1RG4jpJsetzTdjJUTZXTMXwlBTdaHD2/preview" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <figcaption>Autoplay Audio Example</figcaption>
+</figure>
 
 
 <br>
