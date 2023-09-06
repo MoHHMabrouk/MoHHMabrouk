@@ -50,8 +50,6 @@
 ![Fedora Linux](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat&logo=AUTOSAR)&nbsp;
 
 
-https://github.com/MoHHMabrouk/MoHHMabrouk/assets/104689716/d5c9020a-14c9-413c-89b3-04c026b12f3f
-
 <br>
 
 </a>
