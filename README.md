@@ -1,55 +1,110 @@
+<!-- HEADER TITLE -->
+<h1 align="center">Mohamed Mabrouk</h1>
+<h3 align="center">Industrial Automation Engineer | Cyber Security & ICS/OT Security Enthusiast</h3>
 
-
-
-<h3 align="center">
-  Welcome to Mohamed Mabrouk's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5DF727&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=1AFF00&center=true&vCenter=true&width=600&lines=Industrial+Automation+Engineer;Cyber+Security+Learner;ICS%2FOT+Security+Passionate;Fortinet+NSE4%2FNSE5+Trainee;Always+Improving+and+Building+Skills">
+</p>
 
+---
 
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4px">
+</p>
 
-<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
+<!-- ABOUT ME -->
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzgwMWVzZzh5NDB2cWxncTBuc2pqc3Bwc2Jkb2d0YjdzZTBhZGU3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlRmzEc8I8a6sYU/giphy.gif">
 
-<img width="250" align="right" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
+### 👨‍💼 About Me
+- Industrial Automation Engineer specializing in **PLC, SCADA, and Industrial Networks**.  
+- Transitioning into **Cyber Security** with strong focus on **network security & ICS/OT protection**.  
+- Actively preparing for **Fortinet NSE4 & NSE5** certifications.  
+- Strong knowledge of **Modbus, Profibus, Profinet, Ethernet/IP**, industrial protocols and automation architectures.  
+- Interested in **Network Monitoring, Firewall Administration, Threat Detection**, and **Critical Infrastructure Security**.  
+- Consistently expanding technical knowledge and hands-on experience in secure automation systems.
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4px">
+</p>
 
-- 🏢 I'm an Embedded Software Engineer and Automotive Diploma Student at NTI
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, Data Structure ,Computer Architecture,
-  Communication Protocols (EX: UART,LIN,I2C,CAN) , RTOS , or anything related to Embedded Systems Engineering.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
-<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/moh-mabrouk/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-### Connect with Me :
+# 🛠 **Tech Stack**
 
-<a href="https://www.linkedin.com/in/moh-mabrouk/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+## 🏭 Industrial Automation
+<p>
+  <img src="https://img.shields.io/badge/PLC%20Programming-Siemens%20%2F%20TIA%20Portal-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SCADA%20Systems-WinCC%20%7C%20FactoryTalk-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Industrial%20Networks-Modbus%20%7C%20Profibus%20%7C%20Profinet-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20CAN-green?style=for-the-badge">
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Microchip](https://img.shields.io/badge/-Microchip%20Studio-05122A?style=flat&logo=Microchip%20Studio)&nbsp;
-![Communtication Protocols](https://img.shields.io/badge/-Communiction%20Protocols-05122A?style=flat&logo=Communiction%20Protocols)&nbsp;
-![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
+## 🔐 Cyber Security
+<p>
+  <img src="https://img.shields.io/badge/Fortinet-Firewalls-red?style=for-the-badge&logo=fortinet">
+  <img src="https://img.shields.io/badge/NSE4%20Candidate-Network%20Security-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NSE5%20Candidate-Security%20Ops-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ICS%2FOT%20Security-Critical%20Infrastructure-important?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Traffic%20Analysis-Wireshark-success?style=for-the-badge&logo=wireshark">
+</p>
 
-<img align="center" src="https://media.giphy.com/media/CAM1sOA4pKGuzKlIPt/giphy.gif" width= 100% height=15px>
+## 💻 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
 
+## 🖥 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
 
-### 🛠 &nbsp;Currently Learning
-![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-05122A?style=flat&logo=Embedded%20Linux)&nbsp;
-![Fedora Linux](https://img.shields.io/badge/-fedora-05122A?style=flat&logo=fedora)&nbsp;
-![Fedora Linux](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat&logo=AUTOSAR)&nbsp;
+## ⚙ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
+---
 
-<br>
+# 📈 GitHub Statistics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Moh-Mabrouk&show_icons=true&theme=radical">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Mabrouk&layout=compact&theme=radical">
+</p>
 
-</a>
+<p align="center">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-Mabrouk&theme=highcontrast">
+</p>
+
+---
+
+# 🚧 Currently Learning
+- Cyber Security Foundations  
+- Fortinet NSE4 / NSE5  
+- ICS/OT Security  
+- Network Defenses & Monitoring  
+- Linux Hardening  
+- Threat Analysis  
+- Secure Automation Architecture  
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="4px">
+</p>
+
